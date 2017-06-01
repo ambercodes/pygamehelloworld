@@ -10,4 +10,4 @@ while True: # main game loop
         pygame.quit()
         sys.exit()
         pygame.display.update()
-s
+
